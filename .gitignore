@@ -9,6 +9,7 @@ awe/CMakeFiles
 awe/images
 awe/lib
 awe/awe
+awe/.idea
 awe/cmake_install.cmake
 awe/CMakeChache.txt
 awe/programState
